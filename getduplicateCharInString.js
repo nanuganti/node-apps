@@ -7,3 +7,6 @@ for (let index = 0; index < myString.length; index++) {
     }
 }
 console.log(mySet);
+
+//output
+//Set(4) { 'h', 'e', 'l', 'o' }
